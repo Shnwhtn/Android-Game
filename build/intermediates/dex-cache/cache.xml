@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/bleedingangl/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/home/bleedingangl/Documents/app/build/intermediates/pre-dexed/debug/gson-2.7_567c761b721dad303a916584ba388750f0150c66.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bleedingangl/.android/build-cache/9670c71b497740c96104a0c55081184996ab2ab8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f5d23793df1e17be9a5ca6b9f2046ce27b563060">
+        <dex dex="/home/bleedingangl/Documents/app/build/intermediates/pre-dexed/debug/classes_b13108d63959dc09be81c3bc8532bd135ef0776e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bleedingangl/.android/build-cache/febe6a60f5ce368f7ac4b376a46bbc50911f8db6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/home/bleedingangl/Documents/app/build/intermediates/pre-dexed/debug/classes_8146ffa606aaa4e1faf52693734445fd402639ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bleedingangl/.android/build-cache/18445ce28c6ad0075b7aa3106f2260ee4709bc04/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/home/bleedingangl/Documents/app/build/intermediates/pre-dexed/debug/classes_b88b92b951d0626338473a519380c2de605fedb1.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/bleedingangl/Documents/app/build/intermediates/res/merged/debug/anim-v21/design_appbar_state_list_animator.xml",
+        "source": "/home/bleedingangl/.android/build-cache/febe6a60f5ce368f7ac4b376a46bbc50911f8db6/output/res/anim-v21/design_appbar_state_list_animator.xml"
+    },
+    {
+        "merged": "/home/bleedingangl/Documents/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/home/bleedingangl/.android/build-cache/febe6a60f5ce368f7ac4b376a46bbc50911f8db6/output/res/anim-v21/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/home/bleedingangl/Documents/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/home/bleedingangl/.android/build-cache/febe6a60f5ce368f7ac4b376a46bbc50911f8db6/output/res/anim-v21/design_bottom_sheet_slide_out.xml"
+    }
+]

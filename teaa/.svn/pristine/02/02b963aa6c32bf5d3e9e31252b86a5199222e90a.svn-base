@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">ACW</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="FilterPuzzles">
+        <item>Select Filter..</item>
+        <item>Available</item>
+        <item>On Device</item>
+        <item>4x3</item>
+        <item>4x4</item>
+        <item>5x4</item>
+        <item>6x4</item>
+        <item>6x5</item>
+        <item>6x6</item>
+        <item>7x6</item>
+    </string-array>
+
+    <string name="RefreshPuzzles">Refresh Puzzles</string>
+    <string name="ChooseFilter">Choose Puzzle Filter</string>
+    <string name="PuzzleNumber">Puzzle Number</string>
+    <string name="PuzzleLayout">Puzzle Picture Set</string>
+    <string name="PuzzleSize">Puzzle Size</string>
+    <string name="WinsClicks">Wins/Clicks</string>
+    <string name="directions">Refresh puzzle then choose filter</string>
+
+    <string name="androidflavors">Android Flavours</string>
+    <string name="beans">Beans</string>
+    <string name="fruit">Fruit</string>
+    <string name="fruitandveg">Fruit And Vegetable</string>
+    <string name="greenthings">Green Things</string>
+    <string name="memes">Memes</string>
+    <string name="redthings">Red Things</string>
+    <string name="veg">Vegetable</string>
+
+    <string name="needpuzzles">Download Puzzle</string>
+    <string name="needplay">Play</string>
+    <string name="title_activity_game">Game</string>
+
+    <string name="Lowest_Clicks">Record</string>
+    <string name="Your_Clicks">Current</string>
+
+    <string name="win">Winner Winner Chicken Dinner</string>
+    <string name="finalscore">Your Total Clicks</string>
+    <string name="lowestScore">The Lowest Clicks On Record</string>
+</resources>
+
+

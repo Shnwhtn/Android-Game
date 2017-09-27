@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/bleedingangl/Documents/app/build/intermediates/res/merged/debug/layout-land/activity_main.xml",
+        "source": "/home/bleedingangl/Documents/app/src/main/res/layout-land/activity_main.xml"
+    },
+    {
+        "merged": "/home/bleedingangl/Documents/app/build/intermediates/res/merged/debug/layout-land/fragment_puzzle_info.xml",
+        "source": "/home/bleedingangl/Documents/app/src/main/res/layout-land/fragment_puzzle_info.xml"
+    },
+    {
+        "merged": "/home/bleedingangl/Documents/app/build/intermediates/res/merged/debug/layout-land/activity_game.xml",
+        "source": "/home/bleedingangl/Documents/app/src/main/res/layout-land/activity_game.xml"
+    },
+    {
+        "merged": "/home/bleedingangl/Documents/app/build/intermediates/res/merged/debug/layout-land/fragment_scorescreen.xml",
+        "source": "/home/bleedingangl/Documents/app/src/main/res/layout-land/fragment_scorescreen.xml"
+    }
+]

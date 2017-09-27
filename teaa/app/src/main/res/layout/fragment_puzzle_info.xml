@@ -1,0 +1,145 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="mobile.labs.acw.puzzleInfo">
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="410dp">
+
+        <EditText
+            android:id="@+id/puzzlewins"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="47dp"
+            android:background="@null"
+            android:ems="10"
+            android:gravity="center"
+            android:textStyle="bold"
+            tools:text="@string/PuzzleLayout"
+            android:layout_below="@+id/puzzlepicturesetvar"
+            android:layout_alignLeft="@+id/puzzlepicturesetvar"
+            android:layout_alignStart="@+id/puzzlepicturesetvar" />
+
+        <EditText
+            android:id="@+id/puzzlewinvar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@android:color/transparent"
+            android:clickable="false"
+            android:editable="false"
+            android:ems="10"
+            android:focusable="false"
+            android:focusableInTouchMode="false"
+            android:gravity="center"
+            android:linksClickable="false"
+            android:text="derp"
+            android:layout_below="@+id/puzzlewins"
+            android:layout_alignLeft="@+id/puzzlewins"
+            android:layout_alignStart="@+id/puzzlewins" />
+
+        <EditText
+            android:id="@+id/puzzlenametitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/puzzlenamevar"
+            android:layout_alignParentTop="true"
+            android:layout_alignStart="@+id/puzzlenamevar"
+            android:background="@null"
+            android:ems="10"
+            android:gravity="center"
+            android:textStyle="bold"
+            tools:text="@string/PuzzleNumber" />
+
+        <EditText
+            android:id="@+id/puzzlepicturesetvar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignEnd="@+id/puzzlelayout"
+            android:layout_alignLeft="@+id/puzzlelayout"
+            android:layout_alignRight="@+id/puzzlelayout"
+            android:layout_alignStart="@+id/puzzlelayout"
+            android:layout_below="@+id/puzzlelayout"
+            android:background="@null"
+            android:ems="10"
+            android:gravity="center"
+            android:inputType="textPersonName"
+            android:text="puzzleset"
+            android:textAlignment="center" />
+
+        <EditText
+            android:id="@+id/puzzlesizevar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/puzzlesize"
+            android:layout_alignStart="@+id/puzzlesize"
+            android:layout_below="@+id/puzzlenamevar"
+            android:layout_marginTop="58dp"
+            android:background="@null"
+            android:ems="10"
+            android:gravity="center"
+            android:inputType="textPersonName"
+            android:text="puzzlesize"
+            android:textAlignment="center" />
+
+        <EditText
+            android:id="@+id/puzzlenamevar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/puzzlenametitle"
+            android:layout_centerHorizontal="true"
+            android:background="@null"
+            android:ems="10"
+            android:gravity="center"
+            android:inputType="textPersonName"
+            android:text="Name"
+            android:textAlignment="center" />
+
+        <EditText
+            android:id="@+id/puzzlesize"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_above="@+id/puzzlelayout"
+            android:layout_alignLeft="@+id/puzzlenamevar"
+            android:layout_alignStart="@+id/puzzlenamevar"
+            android:layout_marginBottom="23dp"
+            android:background="@null"
+            android:ems="10"
+            android:gravity="center"
+            android:textStyle="bold"
+            android:visibility="visible"
+            tools:text="@string/PuzzleSize" />
+
+        <EditText
+            android:id="@+id/puzzlelayout"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/puzzlesizevar"
+            android:layout_alignStart="@+id/puzzlesizevar"
+            android:layout_below="@+id/puzzlesizevar"
+            android:layout_marginTop="30dp"
+            android:background="@null"
+            android:ems="10"
+            android:gravity="center"
+            android:textStyle="bold"
+            tools:text="@string/PuzzleLayout" />
+
+        <Button
+            android:id="@+id/downloadplay"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:onClick="downloadorplay"
+            android:text="Button"
+            android:visibility="invisible"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="37dp" />/>
+
+    </RelativeLayout>
+
+</FrameLayout>
